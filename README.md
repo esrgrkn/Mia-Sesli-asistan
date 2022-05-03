@@ -1,5 +1,7 @@
 # Mia-Sesli-asistan![voice](https://user-images.githubusercontent.com/92585904/166426866-bb100542-dc02-46fe-83d4-3a2ed253d73b.jpg)
 
+<br>
+
 [youtube]:https://www.instagram.com/gurkanesserr/?hl=tr
 [twitter]:https://twitter.com/GrkanEser17
 [linkedin]:https://www.linkedin.com/in/g%C3%BCrkan-eser-281819224/
@@ -9,8 +11,10 @@
 [<img  width="35" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="center" />][twitter]
 [<img  width="35" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="center" />][linkedin]
 
+<br>
 
 ## Proje Sahibi: Gürkan ESER 
+<br>
 
 ## Sesli Asistan Nedir ?
 Tabletinizde, telefonunuzda, bilgisayarınızda, hoparlörünüzde veya internete bağlı herhangi bir cihazda mevcut olan kişisel asistanınız/yardımcınızdır. Son yıllarda popülaritesinin artmasıyla birlikte şimdi ki çoğu akıllı cihazda yüklü olarak geliyor.
