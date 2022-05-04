@@ -67,3 +67,10 @@ Etiketleme ve Ses Tanıma: Kullanıcının talebini yerine getirmek için sistem
 
 ## Bunları kurduktan sonra projeyi Asistant.py dosyası içerisinden çalıştırabilirsiniz.
 
+
+
+
+https://user-images.githubusercontent.com/92585904/166688664-05185b11-50cf-41ed-8bd5-dc0a03e1ac35.mp4
+
+
+
